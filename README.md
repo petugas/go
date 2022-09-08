@@ -10,3 +10,5 @@ A telegram media to gofile uploader bot
 - `BOT_TOKEN` Your bot token from @BotFather
 
 ---
+
+- 'Dih'
