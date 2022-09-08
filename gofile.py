@@ -39,3 +39,4 @@ def uploadFile(file, token=None, folderId=None):
     elif "error-" in response["status"]:
         error = response["status"].split("-")[1]
         raise Exception(error)
+
