@@ -35,7 +35,7 @@ Using Link:
     With folder id:
         `/upload url token folderid`
 
-Made by @FayasNoushad"""
+Made by @erl_andi"""
 
 
 @Bot.on_message(filters.private & filters.command("start"))
@@ -118,7 +118,7 @@ async def filter(bot, update):
             ],
             [
                 InlineKeyboardButton(
-                    text="Join Updates Channel", url="https://telegram.me/FayasNoushad")
+                    text="Join Updates Channel", url="https://telegram.me/erl_andi")
             ]
         ]
     )
